@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"TutorialContext","DefaultDacpacSchema":null,"IdReplace":true,"IncludeConnectionString":false,"OutputPath":"Models\/DBModels","ProjectRootNamespace":"DotnetCoreHandByHand","SelectedToBeGenerated":0,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.TestTable"}],"UseDatabaseNames":true,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
